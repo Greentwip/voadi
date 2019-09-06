@@ -1,0 +1,55 @@
+This is the license of various files in the game Vegan on a Desert Island.
+See here: https://github.com/vegan-desert-island/vegan-desert-island
+
+GNU GPL v3: https://www.gnu.org/licenses/gpl-3.0.txt
+CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/legalcode.txt
+
+
+Scripts under GNU GPL v3:                           Author
+-------------------------                           ------
+main.lua                                            Christopho
+scripts/features.lua                                Christopho, Alex Gleason
+scripts/game_manager.lua                            Christopho
+scripts/initial_game.lua                            Christopho, Alex Gleason
+scripts/multi_events.lua                            Christopho
+scripts/menus/dialog_box.lua                        Christopho, Alex Gleason
+scripts/menus/solarus_logo.lua                      Christopho
+scripts/meta/hero.lua                               Christopho, Alex Gleason
+
+Data files under CC BY-SA 4.0:                      Author
+------------------------------                      ------
+quest.dat                                           Alex Gleason
+
+fonts/minecraftia.ttf                               Andrew Tyler: http://www.andrewtyler.net
+
+languages/en/text/dialogs.dat                       Alex Gleason
+languages/en/text/strings.dat                       Alex Gleason
+
+maps/forest.dat                                     Alex Gleason
+maps/house.dat                                      Alex Gleason
+maps/outside.dat                                    Alex Gleason
+
+musics/alex/desert.ogg                              Alex Gleason
+musics/alex/rush.ogg                                Alex Gleason
+
+sounds/diarandor/solarus_logo.ogg                   Diarandor
+sounds/door_open.ogg                                Diarandor
+sounds/message_end.ogg                              Diarandor
+sounds/message_letter.ogg                           Diarandor
+sounds/treasure.ogg                                 Diarandor
+
+tilesets/indoors.dat                                Alex Gleason
+tilesets/indoors.entities.png                       Alex Gleason
+tilesets/indoors.tiles.png                          Alex Gleason
+tilesets/overworld.dat                              Alex Gleason
+tilesets/overworld.entities.png                     Alex Gleason
+tilesets/overworld.tiles.png                        Alex Gleason
+
+sprites/animals/mouse.dat                           Diarandor
+sprites/animals/mouse.png                           Diarandor
+sprites/main_heroes/alex.png                        Alex Gleason
+sprites/main_heroes/alex.dat                        Alex Gleason
+sprites/main_heroes/rachel.png                      Alex Gleason
+sprites/main_heroes/rachel.dat                      Alex Gleason
+sprites/menus/solarus_logo.png                      Olivier Cléro
+sprites/menus/solarus_logo.dat                      Olivier Cléro
