@@ -6262,6 +6262,7 @@ chest{
   x = 1152,
   y = 77,
   treasure_name = "seed",
+  treasure_savegame_variable = "seed",
   sprite = "entities/big_chest",
 }
 

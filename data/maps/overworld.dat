@@ -19590,6 +19590,7 @@ teletransporter{
   width = 16,
   height = 16,
   destination_map = "woods/witch_hut",
+  sound = "door_open",
 }
 
 wall{
@@ -23743,6 +23744,26 @@ npc{
   subtype = 1,
   sprite = "animals/squirrel",
   behavior = "dialog#woods.socialism",
+}
+
+npc{
+  layer = 0,
+  x = 1144,
+  y = 1365,
+  direction = 0,
+  subtype = 1,
+  sprite = "animals/chicken",
+  behavior = "dialog#woods.chicken.1",
+}
+
+npc{
+  layer = 0,
+  x = 1192,
+  y = 1381,
+  direction = 2,
+  subtype = 1,
+  sprite = "animals/chicken",
+  behavior = "dialog#woods.chicken.2",
 }
 
 tile{

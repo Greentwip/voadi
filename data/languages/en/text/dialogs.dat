@@ -3420,6 +3420,36 @@ state capitalism.
 }
 
 dialog{
+  id = "woods.chicken.1",
+  photo = "chicken",
+  text = [[
+##Chicken
+We want meat, but it's
+an scarce resource.
+]],
+}
+
+dialog{
+  id = "woods.chicken.2",
+  photo = "chicken",
+  text = [[
+##Chicken
+Maybe you think it's
+a coincidence but
+it is not. 
+We are born 
+carnivores and we
+are entitled to 
+become what we 
+want to as long as
+we can achieve our
+goals I see no
+trouble with 
+promoting carnivores
+]],
+}
+
+dialog{
   id = "woods.defense",
   text = [[
 I for one SUPPORT
@@ -3599,18 +3629,13 @@ dialog{
   photo = "rachel",
   text = [[
 ##Rachel
-Look, I don't want
-to mess up, I was
-sent by Greybeard to
-investigate why carnivores
-are so serious into their
-culture of promotion.
-So that's pretty much it
-I'm here to investigate.
-Plus, I'm vegan so
-that wouldn't make any
-effect on my or 
-whatsoever.
+I think we are both
+looking for a solution,
+to start with, meat is
+a scarce item, as it seems.
+And I can help you get
+your whiskey, call it
+a deal.
 ]],
 }
 
@@ -3706,9 +3731,13 @@ dialog{
   photo = "claudia",
   text = [[
 ##Witch
-Indeed, but why would
-I give it away to a
-mere human like you?
+First of all, I use some
+vitamins, but the 
+path to the cellar
+is blocked and I can't
+remember how to get
+in, if you help me,
+I'll help you.
 ]],
 }
 
@@ -3717,16 +3746,10 @@ dialog{
   photo = "claudia",
   text = [[
 ##Witch
-I'm also concerned.
-Who told you I wasn't?
-But anyways, it might be
-proper if I give this to
-you, go with the chicken,
-he will give you more
-instructions on how
-to stop this nuisance 
-between carnivores
-and herbivores.
+Ok, so, if you
+help me, I'll 
+help you, this is
+how it works.
 ]],
 }
 

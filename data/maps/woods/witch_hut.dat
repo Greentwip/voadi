@@ -289,6 +289,7 @@ teletransporter{
   height = 16,
   destination_map = "overworld",
   destination = "outside_witch_hut",
+  sound = "door_open",
 }
 
 npc{
@@ -312,5 +313,25 @@ wall{
   stops_enemies = true,
   stops_blocks = true,
   stops_projectiles = true,
+}
+
+destination{
+  name = "cellar_exit",
+  layer = 0,
+  x = 152,
+  y = 77,
+  direction = 1,
+}
+
+teletransporter{
+  name = "cellar_entrance",
+  layer = 0,
+  x = 128,
+  y = 64,
+  width = 16,
+  height = 16,
+  destination_map = "woods/dungeon2",
+  destination = "destination",
+  sound = "door_open",
 }
 
